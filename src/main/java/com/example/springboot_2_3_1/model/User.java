@@ -3,7 +3,6 @@ package com.example.springboot_2_3_1.model;
 
 import jakarta.persistence.*;
 
-
 @Entity
 @Table(name = "users")
 public class User {
